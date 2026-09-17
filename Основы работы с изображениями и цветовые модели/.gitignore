@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+image_example.jpg
+Практика_1.pdf
+Индивидуальные задания_1.pdf
